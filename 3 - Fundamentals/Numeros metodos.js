@@ -36,15 +36,39 @@ resultado = Math.max(1,2,3,4,5,6,10);
 // Menor numero de uma lista
 resultado = Math.min(1,2,3,4,5,6,10,-3);
 
-
-
-
-
-
-
-
-
-
+// Operações matematicas
+resultado = 20 + 30 * 2; 
+resultado = (20 + 30) * 2; 
 
 console.log(resultado)
+
+// 20% de desconto num carrinho de compras
+const items = (20+30+30+40);
+const valorDesconto = (items / 100) * 20;
+const precoFinal = items - valorDesconto;
+
+console.log('O preço inicial é: ' + items );
+console.log('O Valor do desconto é: ' + valorDesconto );
+console.log('O Valor preço final é: ' + precoFinal);
+
+// Exemplo da pontoação numjogo
+
+let pontos = 5
+
+// Incrementa 1
+pontos++;
+++pontos;
+// Reduz 1
+--pontos;
+pontos--;
+// Incrementa 10
+pontos +=10;
+// Reduz 10 
+pontos -=10;
+
+
+
+
+
+
 
