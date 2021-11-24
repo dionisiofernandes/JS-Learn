@@ -1,4 +1,7 @@
 
+// Converter Strings para numeros
+
+
 const num1 = '20',
         num2 = 10,
         num3 = 'nine';
@@ -47,6 +50,36 @@ let numero4 = '1545.545454',
 console.log(Number(numero4).toFixed(2)); // Converte a String para numero e arredonda para (2) casas decimais
 console.log(numero5.toFixed(3)); // o .toFixed() arredonta para X casas decimais
 
-
 // Todos os campos preenchidos num formulario serão uma string e por isso temos várias funções que nos permitem converter. 
+
+
+
+// converter numereos para Strings
+
+let numero = 8700,
+    output;
+
+    output=string(numero);
+console.log(output);
+
+// Converter Bool to String
+let output;
+output=string(true);
+console.log(output);
+
+// converter datas para String
+let output;
+output=string(new Date());
+console.log(output);
+
+// Objectos para String (array)
+let output;
+output=string([1,2,3,4,5]); 
+console.log(output);
+
+// toString
+let output;
+output=[1,2,3,4,5].toString(); 
+console.log(output);
+
 
