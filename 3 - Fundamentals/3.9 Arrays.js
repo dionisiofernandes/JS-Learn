@@ -89,20 +89,3 @@ arraynumeros.sort(function(num1, num2){
 });
 
 console.log(arraynumeros);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
