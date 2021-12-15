@@ -7,7 +7,7 @@ switch (modoPagamento) {
         console.log(`O seu modo de pagamento é: ${modoPagamento}!`);
         break;
     case 'cheque':
-        console.log(`O seu modo de pagamento é: ${modoPagamento}! Os seus fundos serão ferificados antes de completar a compra!`);
+        console.log(`O seu modo de pagamento é: ${modoPagamento}! Os seus fundos serão verificados antes de completar a compra!`);
         break;
     case 'cartao':
         console.log(`O seu modo de pagamento é: ${modoPagamento}! A processar!`);
