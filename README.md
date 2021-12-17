@@ -16,6 +16,8 @@ Bora lá aprender!
 
 - [CSS Crash Course For Absolute Beginners (Youtybe)](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
+- [HTML Crash Course For Absolute Beginners (Youtybe)](https://www.youtube.com/watch?v=UB1O30fR-EE)
+
 
 
 
