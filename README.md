@@ -14,5 +14,8 @@ Bora lá aprender!
 - [JavaScript Introduction EdX](https://www.edx.org/course/javascript-introduction?source=aw&awc=6798_1637332208_2660ac5ebb34b3e94080acad8751a8e8&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=631878_javarevisited)
 - [JavaScript Programming (Youtybe)](https://www.youtube.com/watch?v=jS4aFq5-91M)
 
+- [CSS Crash Course For Absolute Beginners (Youtybe)](https://www.youtube.com/watch?v=yfoY53QXEnI)
+
+
 
 
